@@ -1,1 +1,75 @@
-ul.navbar-nav li a { color: rgb(231, 7, 7) !important;} ul.navbar-nav li.active a { background-color: rgb(255, 195, 0) !important; color: rgb(19, 153, 19) !important;} 
+.col-md-1 img {
+    max-width: 100% !important;
+}
+
+.col-md-2 img {
+    max-width: 100% !important;
+}
+
+.col-md-3 img {
+    max-width: 100% !important;
+}
+
+.col-md-4 img {
+    max-width: 100% !important;
+}
+
+.col-md-5 img {
+    max-width: 100% !important;
+}
+
+.col-md-6 img {
+    max-width: 100% !important;
+}
+
+.col-md-7 img {
+    max-width: 30% !important;
+}
+
+.col-md-8 img {
+    max-width: 100% !important;
+}
+
+.col-md-9 img {
+    max-width: 100% !important;
+}
+
+.col-md-10 img {
+    max-width: 100% !important;
+}
+
+.col-md-11 img {
+    max-width: 100% !important;
+}
+
+.col-md-12 img {
+    max-width: 100% !important;
+}
+
+h1 {
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    padding-bottom: .5rem;
+    border-bottom: 1px solid #E31E24;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul li {
+    padding: 0.75rem;
+}
+
+.table th,
+.table td {
+    border-top: none !important;
+}
+
+@media (max-width: 992px) {
+    h1 {
+        margin-top: 1.5rem;
+    }
+}
